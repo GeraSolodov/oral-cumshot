@@ -34,5 +34,6 @@ theme = 'congo'
     name = '⚔️ Доска заказов'
     url = '/bounties/'
     weight = 3
+
 [params.assets]
   disableFingerprinting = true
